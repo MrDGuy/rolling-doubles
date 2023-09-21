@@ -30,7 +30,7 @@ You should prints the results of whether there were doubles in an ``||logic:if e
   adventure.add_to_textlog("Roll 2: " + roll_2)
   #Change the code below so that it prints out whether you rolled doubles or not.
   if True:
-    pass
+    adventure.add_to_textlog("")
   else:
-    pass
+    adventure.add_to_textlog("")
 ```
